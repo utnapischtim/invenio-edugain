@@ -23,7 +23,7 @@ requires-python = ">=3.11"
 dependencies = [
   "invenio-celery>=2.0.0,<3.0.0",
   "invenio-db>=2.0.0,<3.0.0",
-  "invenio-jobs>=4.0.0,<5.0.0",
+  "invenio-jobs>=6.0.0,<7.0.0",
   "pysaml2>=7.5.0",
   "validators>=0.21",
 ]
